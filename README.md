@@ -6,7 +6,7 @@ Los métodos que se debe poder utilizar  son:
 mostrarGeneracion: este método debe mostrar un mensaje indicando a qué generación pertenece la persona creada y cual es el rasgo característico de esta generación.
 Para realizar este método tener en cuenta la siguiente tabla de generaciones:
 
-##Link de netlify
+## Link de netlify
 
 https://ejercicio-dom-2.netlify.app/
 
