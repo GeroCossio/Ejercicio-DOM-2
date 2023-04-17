@@ -8,7 +8,7 @@ Para realizar este método tener en cuenta la siguiente tabla de generaciones:
 
 ##Link de netlify
 
-https://ejericio-dom-2.netlify.app/
+https://ejercicio-dom-2.netlify.app/
 
 ## Pre-requisitos 📋
 
